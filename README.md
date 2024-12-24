@@ -17,7 +17,7 @@ Run the following command to install sam2.
 # before installing sam2, install torch and torchvision first
 $ uv pip install torch torchvision
 $ git clone https://github.com/facebookresearch/sam2.git && cd sam2
-$ pip install -e .
+$ uv pip install -e .
 ```
 
 ## Getting Started
